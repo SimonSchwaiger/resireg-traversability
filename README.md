@@ -20,19 +20,19 @@ Simon Schwaiger<sup>1,2</sup>, David Seyser<sup>2</sup>, Alessandro Scherl<sup>2
 
 ***************************************
 
-## 🧭 Method
-
-<p align="center">
-  <img src="assets/teaser.png" width="900">
-</p>
-
-We introduce a preference-learning approach for traversability estimation that starts from language-based priors and adapts them to field data using relative traversability annotations. Instead of training an application-specific prediction head, traversability is modeled directly in the vision-language feature space using von Mises-Fisher mixture responsibilities, enabling data-efficient adaptation to new environments.
-
-***************************************
-
 ## 📰 News
 
 * [05.10.2026] Paper preprint release.
+
+***************************************
+
+## 🧭 Method
+
+<p align="center">
+  <img src="img/teaser.png" width="600">
+</p>
+
+We introduce a preference-learning approach for traversability estimation that starts from language-based priors and adapts them to field data using relative traversability annotations. Instead of training an application-specific prediction head, traversability is modeled directly in the vision-language feature space using von Mises-Fisher mixture responsibilities, enabling data-efficient adaptation to new environments.
 
 ***************************************
 
